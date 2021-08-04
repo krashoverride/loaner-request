@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">a5516de0d13570107f44c4b2f70595d1</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Reminders</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>600</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 16:26:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf0747c9d1bdb0107f44c4b2f705956f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reminders</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b4906de0d13570107f44c4b2f70595c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b4906de0d13570107f44c4b2f70595c6</sys_scope>
+        <sys_update_name>sys_app_module_cf0747c9d1bdb0107f44c4b2f705956f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 16:26:10</sys_updated_on>
+        <timeline_page/>
+        <title>Reminders</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">b4906de0d13570107f44c4b2f70595c6</application>
+        <file_path/>
+        <instance_id>adf46a401b757c50d9c41f861a4bcbdc</instance_id>
+        <instance_name>adf-jul-776-dev-004</instance_name>
+        <name>sys_app_module_cf0747c9d1bdb0107f44c4b2f705956f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">a5516de0d13570107f44c4b2f70595d1</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Reminders</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>600</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-04 16:26:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cf0747c9d1bdb0107f44c4b2f705956f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reminders</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b4906de0d13570107f44c4b2f70595c6</sys_package><sys_policy/><sys_scope display_value="Loaner Request">b4906de0d13570107f44c4b2f70595c6</sys_scope><sys_update_name>sys_app_module_cf0747c9d1bdb0107f44c4b2f705956f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-04 16:26:10</sys_updated_on><timeline_page/><title>Reminders</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1389863889</payload_hash>
+        <record_name>Reminders</record_name>
+        <reverted_from/>
+        <source>94d46964d13570107f44c4b2f70595e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 16:26:10</sys_created_on>
+        <sys_id>b2370389d1bdb0107f44c4b2f705958b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b11fc93dd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 16:26:10</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fa370389ffbdb01000ebee547e82058a</update_guid>
+        <update_guid_history>fa370389ffbdb01000ebee547e82058a:-1389863889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Reminders">54a7c7c9d1bdb0107f44c4b2f705956b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 16:27:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3831ba35108742f69fbf801fc03f7cc9</sys_id>
+        <sys_metadata>cf0747c9d1bdb0107f44c4b2f705956f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reminders</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b4906de0d13570107f44c4b2f70595c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b4906de0d13570107f44c4b2f70595c6</sys_scope>
+        <sys_scope_delete display_value="">3ba6e5ccf3c240eca70d778ae385b190</sys_scope_delete>
+        <sys_update_name>sys_app_module_cf0747c9d1bdb0107f44c4b2f705956f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cf0747c9d1bdb0107f44c4b2f705956f">b2370389d1bdb0107f44c4b2f705958b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 16:27:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
